@@ -85,6 +85,7 @@ section p{
 }
 .dif{
     display: flex;
+    justify-content: center;
     margin: 0 2rem 0 0;
 }
 .img2{
